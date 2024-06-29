@@ -3,12 +3,6 @@
 ## Description
 This repository contains an extensive analysis of employee data, addressing key HR questions and deriving insights through data quality enhancements, pivot tables, charts, and more. The analysis is aimed at improving data-driven decision-making within HR departments.
 
-## Project Structure
-
-- **Employee Data Analysis - My Work.xlsx:** The Excel workbook containing the datasets, pivot tables, charts, and other analytical outputs.
-- **EMPLOYEE DATA ANALYSIS ASSESSMENT QUESTIONS.pdf:** A list of 20 questions designed to guide the analysis of the employee data.
-- **My Work.pdf:** A detailed record of the steps taken to clean, analyze, and visualize the data.
-
 ## Analysis Overview
 
 1. **Data Quality Enhancements:**
